@@ -1,9 +1,0 @@
-1,5c1,2
-< 6
-< 2
-< 8
-< 2
-< 21
----
-> 
-> Move disk 1 from Peg 1 to Peg 3
