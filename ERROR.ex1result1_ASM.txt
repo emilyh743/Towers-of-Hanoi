@@ -1,0 +1,11 @@
+1,5c1,4
+< 6
+< 2
+< 8
+< 2
+< 21
+---
+> Error in /afs/cs.unc.edu/home/emily33/comp411lab/labX/ex1.asm line 29: Runtime exception at 0x00003004: invalid integer input (syscall 5)
+> 
+> Processing terminated due to errors.
+> 
